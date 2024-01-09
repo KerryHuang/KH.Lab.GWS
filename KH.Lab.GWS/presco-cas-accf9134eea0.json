@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "presco-cas",
+  "private_key_id": "accf9134eea0ecc72aa906b690204bf25c7d7def",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0vVcqJFCSiFe0\n30tJEGRSZ1Bhi4oKgpTOdx5yzatEgq8kxOVSa1BYCjmYp6Pnjm40eSInEHZdoEMr\ngx29Fo/KyRUt4dRW6D2OC7xCFbrRVXL2qQf+E0sQw9Mp3ePti2I1/OJ0QGCUvPLZ\nimzyVUUt8+j3n30Gb3jbSC5h0S90z+l9mIPw6oqNouWtdJ2zaFhSqQIGRCBXmXiQ\nxSIaUq1uwz5z+jT3koA97UM6Dmw4nwigtUTTU+PTNwODfRaHnSHCxI00Ga8X1nse\nKlT3zN90sYfgpC90My50LfdGKPrBvyE3Z3y4bawPsS67Uhf8cQPaDyUHXSpNDfEG\nfRsU4hIxAgMBAAECggEAEZZcGUJz4bJpQHU7DPbOoFMj1/4dVmT7CHVAbgDz8cR6\nuQv82a6OIKcMED393c43DJ2d9GmubvFln+IQHoKHxv6WtEKFqFhMhxo+vTqClZSo\nTXbIy5FCjHTVwzzvjUGzMpgzTAcorsiNJByLefBQvUY/DPuEzb/CpanqM4QIx2e7\nDlP4M5C+cWQFhqWkc5+jNcclOqSAuiOH25+yCdRqj8j5IegJ5cl2xfmPhxH4HCvJ\nQAYcG+Kyvn76FG9WQEw7BMV437tPxyzrIKgHdeTFcVy85mcBEqDczwGitWdr9Hc8\nHaLWh1oZLMacIq03mwaekX+6fuVz4uYOf3aaj81p7QKBgQDYrFkbNMJDCQ6Zm5GK\ntUyhndogAlEv6UmQGdqaqFf22aaqHYcofRiBTRkuxMeKJ+kP1cQMxB1YOJ3CYjA5\nLsJqSGvACRHfd50YGlvqswzlNRP/JWVPcu8M8VHeys1DyCikChIFbrlwO88zn34M\nHoCQAsojLc3G604NGTpKLHUjZQKBgQDVi1kjsCq6TO7SgECptSzpVvNFnjKw5j+H\nrJ1okH/pOXRVrgYb/ZP+8XUSdKzEnW9qCGqYWhZBX0yMeK8oFl5m85u5OBHGrLDM\nk73fIxdLYa3huN75oXfbd6mEafijYTqJ8pjPCtC+dQELfEbsZTYLzm0euj2oCCSx\nWzKeEio03QKBgQCwtyhZmxcRa3Kf75Sth55/denwD1O9+svHnn5/gutzZiKbPkf8\nysJQutveHBoOYOyhwJwMOWshh9OLNV/VU4C3BGf1ELCmDL1wahcrfWr4CelMQGi3\neqrjaHJ4ffkZ3kbfO2NlUOAnXHBqzxsTsVDzo4LPXE0nfsSCxF+ZHVdQTQKBgFU/\nuwc/Rd935QOOBcJ6PIKunpGVVSE/2e7c3z4mKZo+wI2P2oqEEff+BsGmaG5Zd2f6\nEiveEvJoDBQr/ajgPTGWYP1xP89zk2UoOe2BgcQrK5JoDkPTzRiFTdw5vfPjVc5K\nVeyZobnW1eLy6xFmWkweTXut1/1juto+0Rc/oy/VAoGBAJVMHFyIFEpk66N5DaYb\nCmIPJfMHEM+aoM8qBrCZFIMl5Ix3sKQ5o1ZgUcrdrSkS1WbNUMFX9IH/XB8HUbcr\noAAbxJHOxz79lwY4BP0PT6gZ+Q79iUUq+q54qgVeTZEG51u92KN+zNFj+WHZZAwh\nQnjEndc3+TjCCYDK+kuKcTwm\n-----END PRIVATE KEY-----\n",
+  "client_email": "create-user@presco-cas.iam.gserviceaccount.com",
+  "client_id": "110882948861543020718",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/create-user%40presco-cas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

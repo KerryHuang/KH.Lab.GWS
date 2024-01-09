@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KH.Lab.GWS": {
+      "commandName": "Project",
+      "commandLineArgs": "-l"
+    }
+  }
+}
